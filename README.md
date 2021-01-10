@@ -4,7 +4,8 @@ These lecture notes are from a graduate-level statistics course I taught at the 
 
 There already exist several excellent books (Durrett, 2008; Ewens, 2004; Hein et al, 2004; Tavaré, 2004; Wakeley, 2008) on mathematical population genetics, and I myself have learned from studying them. The reader is strongly encouraged to look into these other resources to get a more complete view of the topic. You will notice that many important topics and references (apologies for not citing your work) are left out from this monograph, as it is NOT meant to be a comprehensive exposition of population genetics. Rather, the primary goal of these notes is to introduce mathematically-inclined students to the basic concepts underpinning the subject, so that they can get started on population genetics research.
 
-The word “computational” is in the title of this work because efficient algorithms are indispensable in empirical population genetics and I try to highlight this aspect when I can. The special topics covered in these notes are mainly from my own research, simply because they reflect my own interest and expertise. Apologies for the personal bias.
+The word "computational" is in the title of this work because efficient algorithms are indispensable in empirical population genetics and I try to highlight this aspect when I can. The special topics covered in these notes are mainly from my own research, simply because they reflect my own interest and expertise. Apologies for the personal bias.
+
 Special thanks goes to Paul Jenkins for writing parts of Chapters 8 and 12 while he was a postdoc in my lab. I am also grateful to many students who scribed notes for my lectures and to my lab members for their contributions to research.
 
 Yun S. Song
