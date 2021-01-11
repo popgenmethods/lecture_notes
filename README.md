@@ -12,4 +12,4 @@ Yun S. Song <br />
 Berkeley, CA
 
 # Release Notes
-Jan 10, 2021:  Added a new section.  Chapter 5.4: A warning on conditioning on the number of segregating sites 
+Jan 11, 2021:  Added a new section (Chapter 5.4: A warning on conditioning on the number of segregating sites).  Minor edits in Chapter 2.3.
