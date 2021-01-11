@@ -10,3 +10,6 @@ Special thanks goes to Paul Jenkins for writing parts of Chapters 8 and 12 while
 
 Yun S. Song <br />
 Berkeley, CA
+
+# Release Notes
+Jan 10, 2021:  Added a new section.  Chapter 5.4: A warning on conditioning on the number of segregating sites 
