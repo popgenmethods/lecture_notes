@@ -14,4 +14,4 @@ Berkeley, CA
 # Release Notes
 Jan 11, 2021:  Added a new section (Chapter 5.4: A warning on conditioning on the number of segregating sites).  Minor edits in Chapter 2.3.
 
-Apr 22, 2021:  Added a new section (Chapter 9.5: Estimation of pairwise coalescence times), inspired a private communication with Regev Schweiger and Richard Durbin.
+Apr 22, 2021:  Added a new section (Chapter 9.5: Estimation of pairwise coalescence times), inspired by a private communication with Regev Schweiger and Richard Durbin.
